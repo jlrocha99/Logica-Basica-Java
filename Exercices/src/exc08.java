@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Not finished
 public class exc08 {
   public static void main(String[] args) {
     int aux = 0;
