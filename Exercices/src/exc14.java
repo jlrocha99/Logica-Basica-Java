@@ -8,7 +8,7 @@ public class exc14 {
     System.out.println("type 2 numbers: ");
     System.out.print("First number: ");
     a = input.nextInt();
-    System.out.print("Second number:");
+    System.out.print("Second number: ");
     b = input.nextInt();
     aux = a;
     a = b;
@@ -16,8 +16,5 @@ public class exc14 {
 
     System.out.println("First number: " + a);
     System.out.print("Second Number: " + b);
-
-
-
   }
 }

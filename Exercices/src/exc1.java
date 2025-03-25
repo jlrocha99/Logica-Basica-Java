@@ -12,10 +12,10 @@ public class exc1 {
     c = input.nextInt();
 
     if((a + b) >= c) {
-      System.out.println("Sum A + B = " + (a + b) + ", this sum is higher or equal than C value");
+      System.out.println("Sum A + B = " + (a + b) + ", is higher or equal than C value");
     }
     else{
-        System.out.println("The C value: " + c + ", this value is higher than A + B result");
+        System.out.println("The C value: " + c + ", is higher than A + B result");
     }
   }
 }

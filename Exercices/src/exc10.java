@@ -13,6 +13,6 @@ public class exc10 {
     System.out.print("Grade c: ");
     c = input.nextDouble();
 
-    System.out.println("Your school average is: " + String.format("%.2f", (a + b + c) / 3));
+    System.out.println("Your school average is: " + String.format("%.1f", (a + b + c) / 3));
   }
 }
