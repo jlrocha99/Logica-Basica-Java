@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exc08 {
+public class exc008 {
   public static void main(String[] args) {
     //decreased order
     Scanner input = new Scanner(System.in);

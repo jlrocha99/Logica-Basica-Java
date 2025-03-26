@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exc9 {
+public class exc09 {
   public static void main(String[] args) {
     Locale.setDefault(Locale.US);
     double weight, height, imc = 0;

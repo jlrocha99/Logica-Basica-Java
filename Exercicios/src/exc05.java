@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exc5 {
+public class exc05 {
   public static void main(String[] args) {
     Locale.setDefault(Locale.US);
     double salary, baseSalary;

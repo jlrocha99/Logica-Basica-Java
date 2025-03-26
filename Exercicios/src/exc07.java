@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exc7 {
+public class exc07 {
   public static void main(String[] args) {
     boolean bool1, bool2;
     Scanner input = new Scanner(System.in);

@@ -12,16 +12,16 @@
 
 ## 🎯 Objetivos
 A resolução dessa lista possui como objetivo principal, **praticar** e **revisar** conceitos básicos da
-linguagem **Java**, tais como: 
- * Tipos primitivos
- * Entrada e saída de dados
- * Atribuição e comparação de variáveis
- * Operadores aritméticos, unários, relacionais, lógicos e de atribuição
- * Estruturas condicionais
- * Estruturas de repetição (for, while)
- * Estruturas de controle (if/else, switch-case)
- * Utilização de classes importadas (Math e Period).
- * Estruturas de dados (Vetores)
+linguagem **Java**, tais como:
+* Tipos primitivos
+* Entrada e saída de dados
+* Atribuição e comparação de variáveis
+* Operadores aritméticos, unários, relacionais, lógicos e de atribuição
+* Estruturas condicionais
+* Estruturas de repetição (for, while)
+* Estruturas de controle (if/else, switch-case)
+* Utilização de classes importadas (Math e Period).
+* Estruturas de dados (Vetores)
 
 ## 🔗 Lista de exercícios
 https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao
